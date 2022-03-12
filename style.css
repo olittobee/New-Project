@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0; 
+    background-color: bisque;
+}
+
+.mode img{
+    height:700px;
+    width: 50%;
+}
+
+.navbar ul{
+    text-align: right;
+    margin-top: -700px;
+    display: flex;
+   
+}
+
+.ul li{
+    display: inline;
+}
